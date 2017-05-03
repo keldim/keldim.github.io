@@ -19,15 +19,15 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "woyoo@umich.edu"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: 
+  facebook: 
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "keldim"
   google_plus:
-  instagram: "joeykirk"
+  instagram: 
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -35,7 +35,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: 
   wordpress:
   youtube:
 
